@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I'm Ituah Brifini
 
 I'm Ituah from Nigeria, and I am a fullstack Software Engineering student of ALX. i really enjoy learning languages.
 
